@@ -46,3 +46,6 @@ public class Time {
             System.out.println("incorrect data");
     }
 }
+
+
+
